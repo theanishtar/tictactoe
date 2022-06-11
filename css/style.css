@@ -1,0 +1,53 @@
+body {
+    margin: 50px;
+}
+
+.dark-mode {
+    background-color: rgba(0, 0, 0, 0.856);
+    color: white;
+}
+
+button {
+    width: 80px;
+    height: 80px;
+}
+
+#ketQua {
+    color: red;
+}
+
+#turn {
+    color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+i.bx {
+    font-size: 30px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.bx:hover {
+    color: rgb(146, 146, 5);
+}
+
+.bx-moon {
+    float: right;
+    margin-right: 20px;
+}
+
+.bx-reset {
+    float: right;
+    margin-right: 20px;
+}
+
+.title {
+    font-size: 30px;
+    margin-right: -80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main {
+    text-align: center;
+    display: inline-block;
+}
